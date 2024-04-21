@@ -1,0 +1,18 @@
+title: A KFSYSCC theme for revealjs
+author: Hsieh-Ting Lin
+version: 0.0.1
+contributes:
+  format:
+    revealjs:
+      logo: KFSYSCC-logo-col.png
+      theme: KFSYSCC-theme.scss
+      slide-number: true
+      preview-links: true
+      title-slide-attributes:
+        data-background-image: KFSYSCC-diag-full.png
+        data-background-position: 50% 90%
+        data-background-size: 95% 40%
+      overview: true
+      progress: true
+      touch: true
+      controls-layout: bottom-right
